@@ -38,7 +38,7 @@ Thanks goes to these absolutely wonderful people <!-- ([emoji key](https://allco
   </tr>
   <tr>
     <td align="center"><a href="https://github.com/AbhayTrivedi"><img src="https://avatars.githubusercontent.com/u/63183752?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Abhay Trivedi</b></sub></a><br /><a href="#content-AbhayTrivedi" title="Content">🖋</a></td>
-    <td align="center"><a href="https://skpandey885.me/"><img src="https://avatars.githubusercontent.com/u/78532081?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Sachin Pandey</b></sub></a><br /><a href="https://github.com/Open-Source-Contributors-IU/coders-archive/commits?author=skpandey885" title="Code">💻</a></td>
+    <td align="center"><a href="https://skpandey885.me/"><img src="https://avatars.githubusercontent.com/u/78532081?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Sachin Pandey</b></sub></a><br /><a href="https://github.com/Open-Source-Contributors-IU/coders-archive/commits?author=skpandey885" title="Code">💻</a> <a href="#content-skpandey885" title="Content">🖋</a></td>
   </tr>
 </table>
 
