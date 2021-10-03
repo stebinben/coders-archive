@@ -37,7 +37,7 @@ Thanks goes to these wonderful people <!-- ([emoji key](https://allcontributors.
     <td align="center"><a href="https://github.com/hardik3008"><img src="https://avatars.githubusercontent.com/u/63361745?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Hardik Singhal</b></sub></a><br /><a href="#content-hardik3008" title="Content">🖋</a></td>
   </tr>
   <tr>
-    <td align="center"><a href="https://github.com/AbhayTrivedi"><img src="https://avatars.githubusercontent.com/u/63183752?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Abhay Trivedi</b></sub></a><br /><a href="#content-AbhayTrivedi" title="Content">🖋</a></td>
+    <td align="center"><a href="https://github.com/AbhayTrivedi"><img src="https://avatars.githubusercontent.com/u/63183752?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Abhay Trivedi</b></sub></a><br /><a href="#content-AbhayTrivedi" title="Content">🖋</a> <a href="https://github.com/Open-Source-Contributors-IU/coders-archive/commits?author=AbhayTrivedi" title="Code">💻</a></td>
   </tr>
 </table>
 
